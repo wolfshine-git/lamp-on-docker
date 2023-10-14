@@ -1,3 +1,5 @@
+#PHP+APACHE+MYSQL on docker container#
+
 git clone this
 
 cd lamp-on-docker/
