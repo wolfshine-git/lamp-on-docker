@@ -12,7 +12,9 @@ sudo chown -R mick:mick data
 
 echo 'Works! <?php echo phpinfo();?>' >data/public_html/index.php
 
-// visit localhost!
+// (web) localhost:8080
+
+// (phpmyadmin) localhost:3001 
 
 Stop:
 docker-compose down
