@@ -13,3 +13,6 @@ sudo chown -R mick:mick data
 echo 'Works! <?php echo phpinfo();?>' >data/public_html/index.php
 
 // visit localhost
+
+Stop:
+docker-compose down
