@@ -8,4 +8,6 @@ docker-compose up -d
 
 sudo chown -R mick:mick data
 
+echo 'Works! <?php echo phpinfo();?>' >data/public_html/index.php
+
 // visit localhost
